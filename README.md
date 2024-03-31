@@ -1,2 +1,2 @@
 # Roberto_Verdugo_Blog
- My Personal blog witrh portfolio of projects
+ My Personal blog with portfolio of projects
